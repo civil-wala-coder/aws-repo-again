@@ -9,6 +9,6 @@ public class HomeController {
 
     @GetMapping
     public String getDemo(){
-        return "hello aws demo !!!";
+        return "hello niksa !!!";
     }
 }
